@@ -1,1 +1,8 @@
 rootProject.name = 'deal'
+
+include 'deal-domain'
+include 'deal-service'
+include 'deal-api'
+include 'deal-admin'
+include 'deal-domain'
+

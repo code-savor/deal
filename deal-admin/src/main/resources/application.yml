@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: com.rxcmd.deal.admin
+  profiles:
+    active: local #현재 선택된 환경 local|dev|qa|stage|live
+    include:
+      - deal

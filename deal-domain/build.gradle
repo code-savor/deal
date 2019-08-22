@@ -1,0 +1,17 @@
+bootJar {
+    enabled = false
+}
+
+bootRun {
+    enabled = false
+}
+
+jar {
+    enabled = true
+}
+
+version '0.0.1-SNAPSHOT'
+
+dependencies {
+
+}
